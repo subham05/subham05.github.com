@@ -37,7 +37,7 @@ h3{
 }
 
 .container {
-background-image:url(./img/gg.jpg);
+background-image:url(gg.jpg);
 background-size:cover;
 
 
@@ -68,7 +68,7 @@ background-position:relative;
 
 #background_image {    
     height: 280px;
-    background-image:url(./img/ee.jpg);
+    background-image:url(ee.jpg);
     padding-top: 15px; 
    
     background-size:cover;
