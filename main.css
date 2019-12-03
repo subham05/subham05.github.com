@@ -245,15 +245,20 @@ flex: 1;
         
     }
     mark.brown{
-        color:brown;
-        background: none;
+         background:linear-gradient(to right,#494964,#6f6f89);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+        
         font-weight: 600;
         
     }
     mark.blue{
-        color:black;
-        font-weight:600;
-        background: none;
+         background:linear-gradient(to right,#3518db,#910d0d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+        font-weight:500;
+        
         
     }
    
