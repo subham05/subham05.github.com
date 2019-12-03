@@ -148,11 +148,11 @@ flex: 1;
         font-size: 18px;
     }
     .cover img{
-        height:60%;
+        height:80%;
         padding-top: 15%;
     }
     .small-circle,.big-circle,.medium-circle{
-        opacity: 0.2;
+        opacity: 0;
     }
     .big-circle{
     height:50%;    
