@@ -264,4 +264,10 @@ flex: 1;
         
         
     }
+.intro-text1 p{
+animation: drop 1.5s ease;
+} 
+.sta{
+animation: drop 1.5s ease;
+}
    
