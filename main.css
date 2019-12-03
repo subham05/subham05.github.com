@@ -34,7 +34,10 @@ flex: 1;
     list-style: none;
 }
 .nav-link{
-    color:#5f5f79;
+    background:linear-gradient(to right,#fce307,#3d0505);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        animation: drop 1.5s ease;
     font-size: 19px;
     font-weight: 500;
     text-decoration:none;
