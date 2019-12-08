@@ -167,7 +167,8 @@ transform: scale(1.15);
         font-size: 18px;
     }
     .cover img{
-        height:80%;
+        height:100%;
+	    opacity: 0;
         padding-top: 15%;
     }
     
