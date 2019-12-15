@@ -14,7 +14,7 @@ body{
 header{
     display: flex;
    
-    width: 100%;
+    width: 80%;
     height: 10vh;
     margin: auto;
     align-items:center;
@@ -163,7 +163,7 @@ transition: 0.5s ease;
         text-align: center;
     }
     .intro-text h1{
-        font-size: 50px;
+        font-size: 40px;
     }
     .intro-text p{
         font-size: 20px;
