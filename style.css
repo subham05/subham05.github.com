@@ -7,6 +7,14 @@ body{
   
 
 }
+.container-fluid{
+  padding-right: 230px;
+  padding-left: 230px;
+  
+  padding-bottom:60px;
+  background-color: rgb(214, 214, 214);
+  
+}
 .max-viewport{
   min-height:99vh;
 }
