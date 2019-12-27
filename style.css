@@ -21,8 +21,12 @@ body{
 .te{
   
   font-size: 20px;
-  color: #000000;
+  
   font-weight: 500;
+	 background:linear-gradient(to right,#834094,#2f9494);
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     background-clip: text;
 }
 .max-viewport img{
   margin-top:-100px;
@@ -133,6 +137,17 @@ body{
 .container-fluid{
     padding-right: 0px;
     padding-left: 0px;
+}
+	.te{
+  
+  font-size: 15px;
+  
+  font-weight: 400;
+	 background:linear-gradient(to right,#834094,#2f9494);
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     background-clip: text;
+}
 }
 @keyframes drop{
   0%{
