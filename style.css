@@ -201,3 +201,6 @@ body{
     cursor: pointer;
     margin:30px;
   }
+.page-footer{
+  background-color: rgb(15, 15, 15);
+	}
